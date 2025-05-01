@@ -157,11 +157,3 @@ After building the frontend, you can deploy the production build to platforms li
 - You can protect any route by using the `protect` middleware that checks if a valid JWT is passed via cookies.
 - React Toastify is used to show notifications for actions like successful login, registration, or errors.
 
----
-
-## License
-
-This project is open-source and available under the MIT License.
-```
-
-This `README.md` is now formatted in Markdown, including detailed instructions for both the backend and frontend setup, installation of required packages, and running the application. Let me know if you'd like any additional changes!
