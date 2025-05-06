@@ -1,13 +1,13 @@
 
 
 
-This project is a full-stack MERN application for user authentication. It includes:
+This project is a full-stack MERN application for user authentication. It includes: 
 
-- **Backend API** with Express & MongoDB
+- **Backend API** with Express & Mongo DB 
 - Routes for authentication (register, login, logout), user profile management (view, update)
 - JWT authentication stored in an HTTP-only cookie
 - Protected routes and endpoints to prevent unauthorized access
-- Custom middleware to check JSON Web Token and store it in cookies
+- Custom middleware to check JSON Web Token and store it in a cookies
 - Error handling middleware
 - **Frontend** built with React for user registration, login, logout, viewing and updating the profile
 - React Bootstrap UI for design
